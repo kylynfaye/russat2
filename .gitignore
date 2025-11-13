@@ -1,0 +1,10 @@
+*.pyc
+**pycache**/
+output_extra/
+spacetrackcreds.txt
+dev/
+russat2_main.txt
+tles/
+spacetrack_tle_df_merged.parquet
+filtered_df.csv
+models/
